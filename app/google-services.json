@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603866301583",
+    "project_id": "dairyapp-d9a16",
+    "storage_bucket": "dairyapp-d9a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603866301583:android:1832dcfb25a0cee8e29cfa",
+        "android_client_info": {
+          "package_name": "com.example.Dairyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603866301583-ekv1k96d5d8m3bqf8clqe6jad5mbdvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMJ7zkZaWguQX7Joid2RiXaigp3nsm3R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603866301583-ekv1k96d5d8m3bqf8clqe6jad5mbdvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
